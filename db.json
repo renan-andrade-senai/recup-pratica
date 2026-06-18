@@ -1,0 +1,54 @@
+{
+  "tecnicos": [
+    { "id": 1, "nome": "Ana Lima", "especialidade": "Hardware" },
+    { "id": 2, "nome": "Carlos Menezes", "especialidade": "Software" },
+    { "id": 3, "nome": "Fernanda Costa", "especialidade": "Redes" }
+  ],
+  "chamados": [
+    {
+      "id": 1,
+      "titulo": "Computador não liga",
+      "descricao": "O computador da recepção não está ligando desde o início do expediente.",
+      "status": "Aberto",
+      "prioridade": "Alta",
+      "dataCriacao": "2026-06-10",
+      "tecnicoId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Impressora offline",
+      "descricao": "A impressora do setor financeiro está aparecendo como offline para todos os usuários.",
+      "status": "Em andamento",
+      "prioridade": "Média",
+      "dataCriacao": "2026-06-11",
+      "tecnicoId": 3
+    },
+    {
+      "id": 3,
+      "titulo": "Sem acesso à internet",
+      "descricao": "Os computadores do setor de vendas perderam o acesso à internet após a queda de energia.",
+      "status": "Aberto",
+      "prioridade": "Alta",
+      "dataCriacao": "2026-06-12",
+      "tecnicoId": 3
+    },
+    {
+      "id": 4,
+      "titulo": "E-mail não sincroniza",
+      "descricao": "O cliente de e-mail parou de receber mensagens novas. O problema ocorre em uma máquina específica.",
+      "status": "Concluído",
+      "prioridade": "Baixa",
+      "dataCriacao": "2026-06-08",
+      "tecnicoId": 2
+    },
+    {
+      "id": 5,
+      "titulo": "Alerta de vírus detectado",
+      "descricao": "O antivírus emitiu alertas de ameaça no computador do setor administrativo.",
+      "status": "Em andamento",
+      "prioridade": "Alta",
+      "dataCriacao": "2026-06-13",
+      "tecnicoId": 2
+    }
+  ]
+}
