@@ -184,6 +184,6 @@ No arquivo `README.md` do seu repositório, inclua:
 
 # Imagens
 
-![lista chamados]("lista chamados.png")
-![detalhes chamado]("detalhes chamado.png")
-![novo chamado]("novo chamado.png")
+![lista chamados](lista%20chamados.png)
+![detalhes chamado](detalhes%20chamado.png)
+![novo chamado](novo%20chamado.png)
