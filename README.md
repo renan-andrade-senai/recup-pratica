@@ -181,3 +181,9 @@ No arquivo `README.md` do seu repositório, inclua:
 - Certifique-se de que a pasta `node_modules` **não está incluída** no repositório
   (o `.gitignore` já está configurado corretamente).
 - Teste o projeto antes do push final — ele deve estar **executando sem erros**.
+
+# Imagens
+
+!("lista chamados.png")
+!("detalhes chamado.png")
+!("novo chamado.png")
